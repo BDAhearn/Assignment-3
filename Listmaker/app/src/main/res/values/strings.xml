@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Listmaker</string>
+    <string name="name_of_list" translatable="false">What is the name of your list?</string>
+    <string name="create_list" translatable="false">Create</string>
+    <string name="task_to_add" translatable="false">What is the task you want to add?</string>
+    <string name="add_task" translatable="false">Add</string>
+</resources>
